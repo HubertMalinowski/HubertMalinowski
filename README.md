@@ -2,7 +2,7 @@
 - 👀 I’m interested in 3D printing and AI
 - 🌱 I’m currently learning PyTorch
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: 4 years of commercial experience in the space industry 
+- ⚡ Fun fact: I once lost my glasses in the sea while diving...
 
 <!---
 HubertMalinowski/HubertMalinowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
